@@ -19,6 +19,19 @@ Seed Nodes
 ----
 `c5e678f14219c1f161cb608aaeda37933d71695d@nnkken.dev:31801`
 
+RPC Server
+----
+https://node.testnet.like.co/rpc/
+
+LCD Server
+----
+https://node.testnet.like.co/
+
+Faucet
+----
+https://likecoin-public-testnet-faucet.nnkken.dev/
+
+
 Use with Keplr wallet
 ----
 [Configuration](keplr.json) for Keplr [Suggest Chain](https://docs.keplr.app/api/suggest-chain.html) API
