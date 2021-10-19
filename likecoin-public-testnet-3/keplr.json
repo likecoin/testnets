@@ -1,7 +1,7 @@
 {
   "chainId": "likecoin-public-testnet-3",
   "chainName": "LikeCoin public test chain",
-  "rpc": "https://likecoin-public-testnet-lcd.nnkken.dev/",
+  "rpc": "https://likecoin-public-testnet-rpc.nnkken.dev/",
   "rest": "https://likecoin-public-testnet-lcd.nnkken.dev/",
   "stakeCurrency": {
     "coinDenom": "EKIL",
