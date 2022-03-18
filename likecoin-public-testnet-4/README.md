@@ -8,7 +8,7 @@ codename: FoTan
 
 [v1.2.0](https://github.com/likecoin/likecoin-chain/releases/tag/v1.2.0) [`aabee90550df7884ead7e5f8eece69e8cec964ca`](https://github.com/likecoin/likecoin-chain/commit/aabee90550df7884ead7e5f8eece69e8cec964ca)
 
-Base on Cosmos SDK v0.42.7
+Base on Cosmos SDK v0.42.11
 
 ## Genesis
 

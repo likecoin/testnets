@@ -9,7 +9,7 @@
     "coinDecimals": 9,
     "coinGeckoId": "likecoin"
   },
-  "walletUrlForStaking": "https://stake.like.co",
+  "walletUrlForStaking": "https://likecoin-public-testnet-4.netlify.app",
   "bip44": {
     "coinType": 118
   },
