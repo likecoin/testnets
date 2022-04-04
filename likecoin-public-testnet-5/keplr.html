@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <script>
+      const keplrConfigUrl =
+        "https://ipfs.io/ipfs/QmcVSBgmbmUVpxw4UXNQErpPEszh983npqPiGtLPKDBKXS";
+
+      async function addToKeplr() {
+        const keplrJson = await fetch(keplrConfigUrl).then((res) => res.json());
+        await window.keplr.experimentalSuggestChain(keplrJson);
+      }
+    </script>
+  </head>
+  <body>
+    <div class="container-fluid mt-2">
+      <p>
+        This page is helper page for adding
+        <code>likecoin-public-testnet-5</code> support to your kelpr wallet.
+        <br />
+        If you have any problem, please seek help at
+        <a href="https://discord.gg/likecoin">https://discord.gg/likecoin</a>.
+      </p>
+      <button type="button" class="btn btn-primary" onclick="addToKeplr()">
+        Click to add to Keplr
+      </button>
+    </div>
+  </body>
+</html>
