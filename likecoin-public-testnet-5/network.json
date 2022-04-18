@@ -19,9 +19,9 @@
       "coinGeckoId": "likecoin"
     }
   ],
-  "addressPrefix": "cosmos",
-  "validatorAddressPrefix": "cosmosvaloper",
-  "validatorConsensusaddressPrefix": "cosmosvalcons",
+  "addressPrefix": "like",
+  "validatorAddressPrefix": "likevaloper",
+  "validatorConsensusaddressPrefix": "likevalcons",
   "HDPath": "m/44'/118'/0'/0/0",
   "lockUpPeriod": "21 days",
   "fees": {
