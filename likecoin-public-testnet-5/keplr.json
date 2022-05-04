@@ -42,5 +42,6 @@
     "low": 0.01,
     "average": 1,
     "high": 1000
-  }
+  },
+  "features": ["stargate", "ibc-transfer", "no-legacy-stdTx", "ibc-go"]
 }
