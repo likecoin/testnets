@@ -2,13 +2,13 @@
 
 chain-id: `likecoin-public-testnet-5`
 
-codename: FoTan
+codename: StarFerry
 
 ## Current Software Version
 
-[v1.2.0](https://github.com/likecoin/likecoin-chain/releases/tag/v1.2.0) [`aabee90550df7884ead7e5f8eece69e8cec964ca`](https://github.com/likecoin/likecoin-chain/commit/aabee90550df7884ead7e5f8eece69e8cec964ca)
+[v3.0.0](https://github.com/likecoin/likecoin-chain/releases/tag/v3.0.0) [`25ece428c3f3b35260e37c3192de188e6ebfaafd`](https://github.com/likecoin/likecoin-chain/commit/25ece428c3f3b35260e37c3192de188e6ebfaafd)
 
-Base on Cosmos SDK v0.42.7
+Base on Cosmos SDK v0.45.6
 
 ## Genesis
 
@@ -17,18 +17,13 @@ Base on Cosmos SDK v0.42.7
 
 ## Seed Nodes
 
-`7a38dfc59eb43b27cf2cc87b46a43e76aeaaf012@20.205.224.107:26656`
-`11c0d57ae2b37122bd8e7de82a1b92c87bf3d45a@20.24.152.136:26656`
+`49976c3bd43da9271f226cbedf02d4b6b8fc880c@35.233.143.230:26656`
 
 ## RPC Server
-
-https://likecoin-public-testnet-5.oursky.dev/rpc/
 
 https://node.testnet.like.co/rpc/
 
 ## LCD Server
-
-https://likecoin-public-testnet-5.oursky.dev/
 
 https://node.testnet.like.co/
 
