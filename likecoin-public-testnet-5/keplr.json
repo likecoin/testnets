@@ -1,15 +1,15 @@
 {
   "chainId": "likecoin-public-testnet-5",
   "chainName": "LikeCoin public test chain",
-  "rpc": "https://likecoin-public-testnet-5.oursky.dev/rpc/",
-  "rest": "https://likecoin-public-testnet-5.oursky.dev/",
+  "rpc": "https://node.testnet.like.co/rpc/",
+  "rest": "https://node.testnet.like.co/",
   "stakeCurrency": {
     "coinDenom": "EKIL",
     "coinMinimalDenom": "nanoekil",
     "coinDecimals": 9,
     "coinGeckoId": "likecoin"
   },
-  "walletUrlForStaking": "https://stake.like.co",
+  "walletUrlForStaking": "https://likecoin-public-testnet-5.netlify.app/",
   "bip44": {
     "coinType": 118
   },
