@@ -2,13 +2,13 @@
 
 chain-id: `likecoin-public-testnet-5`
 
-codename: StarFerry
+codename: ChungKing
 
 ## Current Software Version
 
-[v3.0.0-rc1-hotfix-testnet-handler]([https://github.com/likecoin/likecoin-chain/releases/tag/v3.0.0](https://github.com/oursky/likecoin-chain/releases/tag/v3.0.0-rc1-hotfix-testnet-handler))[`88106a0df455973757e6610dcb53d334bb6ebfc7`](https://github.com/oursky/likecoin-chain/commit/88106a0df455973757e6610dcb53d334bb6ebfc7)
+[v4.0.0-rc1](https://github.com/likecoin/likecoin-chain/releases/tag/v4.0.0-rc1) [`142e1f2be8ce9df4768a7a6646c426c14b70d041`](https://github.com/likecoin/likecoin-chain/commit/142e1f2be8ce9df4768a7a6646c426c14b70d041)
 
-Base on Cosmos SDK v0.45.6
+Base on Cosmos SDK v0.46.12
 
 ## Genesis
 
