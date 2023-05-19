@@ -6,7 +6,7 @@ codename: StarFerry
 
 ## Current Software Version
 
-[v3.0.0](https://github.com/likecoin/likecoin-chain/releases/tag/v3.0.0) [`25ece428c3f3b35260e37c3192de188e6ebfaafd`](https://github.com/likecoin/likecoin-chain/commit/25ece428c3f3b35260e37c3192de188e6ebfaafd)
+[v3.0.0-rc1-hotfix-testnet-handler]([https://github.com/likecoin/likecoin-chain/releases/tag/v3.0.0](https://github.com/oursky/likecoin-chain/releases/tag/v3.0.0-rc1-hotfix-testnet-handler))[`88106a0df455973757e6610dcb53d334bb6ebfc7`](https://github.com/oursky/likecoin-chain/commit/88106a0df455973757e6610dcb53d334bb6ebfc7)
 
 Base on Cosmos SDK v0.45.6
 
