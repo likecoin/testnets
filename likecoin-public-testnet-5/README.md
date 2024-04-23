@@ -2,13 +2,13 @@
 
 chain-id: `likecoin-public-testnet-5`
 
-codename: ChungKing+
+codename: ChungKing++
 
 ## Current Software Version
 
-[v4.1.1](https://github.com/likecoin/likecoin-chain/releases/tag/v4.1.1) [`e84c626f03c92cc19a35a6e9fd57f29d113dbb1d`](https://github.com/likecoin/likecoin-chain/commit/e84c626f03c92cc19a35a6e9fd57f29d113dbb1d)
+[v4.2.0](https://github.com/likecoin/likecoin-chain/releases/tag/v4.2.0) [`4569ea35dfa25f0131135fee8ff6745eccb4f9c5`](https://github.com/likecoin/likecoin-chain/commit/4569ea35dfa25f0131135fee8ff6745eccb4f9c5)
 
-Base on Cosmos SDK v0.46.15
+Base on Cosmos SDK v0.46.16
 
 ## Genesis
 
